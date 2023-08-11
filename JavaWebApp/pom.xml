@@ -10,7 +10,11 @@
 	</parent>
 	<groupId>com.example</groupId>
 	<artifactId>JavaWebApp</artifactId>
+<<<<<<< HEAD
 	<version>1.1</version>
+=======
+	<version>1.0.0-SNAPSHOT</version>
+>>>>>>> da10c641b65b30270d6ae8da598fb6ea7b2d6fef
 	<name>JavaWebApp</name>
 	<description>JavaWebApp project for Spring Boot</description>
 
